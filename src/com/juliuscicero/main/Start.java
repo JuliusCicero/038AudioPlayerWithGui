@@ -5,7 +5,9 @@ import com.juliuscicero.util.PlayAudioFile;
 import java.io.*;
 
 public class Start {
-
+    /**
+     * All data in src/data/images was made by myself
+     * */
     public static void main(String[] args){
         checkForRunningPrograms();
         PlayAudioFile playAudioFile = new PlayAudioFile();

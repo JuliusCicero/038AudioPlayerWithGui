@@ -1,0 +1,2 @@
+2: the ActionListener of the Frame.exitButton was called.
+3: the Value in src/data/figures/NumberOfRunningPrograms.data is not null (0) - possibly, a different Window of this Program was already running.
